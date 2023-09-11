@@ -11,7 +11,7 @@ library(shiny)
 library(DT)
 library(readr)
 
-setwd("C:/Users/Alfredo/Desktop/freelancer/faraon/")
+setwd("/srv/shiny-server/faraon/datos/")
 #setwd("~/brc20/faraon/datos")
 
 df <- read_csv("name22.csv")
