@@ -12,7 +12,7 @@ library(DT)
 library(readr)
 
 
-setwd("C:/Users/Alfredo/Desktop/freelancer/faraon/")
+setwd("/srv/shiny-server/faraon/datos/")
 
 
 # Define UI for application that draws a histogram
