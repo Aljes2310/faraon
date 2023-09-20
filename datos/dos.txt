@@ -1,0 +1,535 @@
+character	Unicode	BORRAR1	BORRAR2	UTF-8	BORRAR3	name	
+🌀	U+1F300	&#x1F300;	&#127744;	F0 9F 8C 80	\u1F300	Cyclone
+🌁	U+1F301	&#x1F301;	&#127745;	F0 9F 8C 81	\u1F301	Foggy
+🌂	U+1F302	&#x1F302;	&#127746;	F0 9F 8C 82	\u1F302	Closed Umbrella
+🌃	U+1F303	&#x1F303;	&#127747;	F0 9F 8C 83	\u1F303	Night With Stars
+🌄	U+1F304	&#x1F304;	&#127748;	F0 9F 8C 84	\u1F304	Sunrise Over Mountains
+🌅	U+1F305	&#x1F305;	&#127749;	F0 9F 8C 85	\u1F305	Sunrise
+🌆	U+1F306	&#x1F306;	&#127750;	F0 9F 8C 86	\u1F306	Cityscape At Dusk
+🌇	U+1F307	&#x1F307;	&#127751;	F0 9F 8C 87	\u1F307	Sunset Over Buildings
+🌈	U+1F308	&#x1F308;	&#127752;	F0 9F 8C 88	\u1F308	Rainbow
+🌉	U+1F309	&#x1F309;	&#127753;	F0 9F 8C 89	\u1F309	Bridge At Night
+🌊	U+1F30A	&#x1F30A;	&#127754;	F0 9F 8C 8A	\u1F30A	Water Wave
+🌋	U+1F30B	&#x1F30B;	&#127755;	F0 9F 8C 8B	\u1F30B	Volcano
+🌌	U+1F30C	&#x1F30C;	&#127756;	F0 9F 8C 8C	\u1F30C	Milky Way
+🌍	U+1F30D	&#x1F30D;	&#127757;	F0 9F 8C 8D	\u1F30D	Earth Globe Europe-africa
+🌎	U+1F30E	&#x1F30E;	&#127758;	F0 9F 8C 8E	\u1F30E	Earth Globe Americas
+🌏	U+1F30F	&#x1F30F;	&#127759;	F0 9F 8C 8F	\u1F30F	Earth Globe Asia-australia
+🌐	U+1F310	&#x1F310;	&#127760;	F0 9F 8C 90	\u1F310	Globe With Meridians
+🌑	U+1F311	&#x1F311;	&#127761;	F0 9F 8C 91	\u1F311	New Moon Symbol
+🌒	U+1F312	&#x1F312;	&#127762;	F0 9F 8C 92	\u1F312	Waxing Crescent Moon Symbol
+🌓	U+1F313	&#x1F313;	&#127763;	F0 9F 8C 93	\u1F313	First Quarter Moon Symbol
+🌔	U+1F314	&#x1F314;	&#127764;	F0 9F 8C 94	\u1F314	Waxing Gibbous Moon Symbol
+🌕	U+1F315	&#x1F315;	&#127765;	F0 9F 8C 95	\u1F315	Full Moon Symbol
+🌖	U+1F316	&#x1F316;	&#127766;	F0 9F 8C 96	\u1F316	Waning Gibbous Moon Symbol
+🌗	U+1F317	&#x1F317;	&#127767;	F0 9F 8C 97	\u1F317	Last Quarter Moon Symbol
+🌘	U+1F318	&#x1F318;	&#127768;	F0 9F 8C 98	\u1F318	Waning Crescent Moon Symbol
+🌙	U+1F319	&#x1F319;	&#127769;	F0 9F 8C 99	\u1F319	Crescent Moon
+🌚	U+1F31A	&#x1F31A;	&#127770;	F0 9F 8C 9A	\u1F31A	New Moon With Face
+🌛	U+1F31B	&#x1F31B;	&#127771;	F0 9F 8C 9B	\u1F31B	First Quarter Moon With Face
+🌜	U+1F31C	&#x1F31C;	&#127772;	F0 9F 8C 9C	\u1F31C	Last Quarter Moon With Face
+🌝	U+1F31D	&#x1F31D;	&#127773;	F0 9F 8C 9D	\u1F31D	Full Moon With Face
+🌞	U+1F31E	&#x1F31E;	&#127774;	F0 9F 8C 9E	\u1F31E	Sun With Face
+🌟	U+1F31F	&#x1F31F;	&#127775;	F0 9F 8C 9F	\u1F31F	Glowing Star
+🌠	U+1F320	&#x1F320;	&#127776;	F0 9F 8C A0	\u1F320	Shooting Star
+🌰	U+1F330	&#x1F330;	&#127792;	F0 9F 8C B0	\u1F330	Chestnut
+🌱	U+1F331	&#x1F331;	&#127793;	F0 9F 8C B1	\u1F331	Seedling
+🌲	U+1F332	&#x1F332;	&#127794;	F0 9F 8C B2	\u1F332	Evergreen Tree
+🌳	U+1F333	&#x1F333;	&#127795;	F0 9F 8C B3	\u1F333	Deciduous Tree
+🌴	U+1F334	&#x1F334;	&#127796;	F0 9F 8C B4	\u1F334	Palm Tree
+🌵	U+1F335	&#x1F335;	&#127797;	F0 9F 8C B5	\u1F335	Cactus
+🌷	U+1F337	&#x1F337;	&#127799;	F0 9F 8C B7	\u1F337	Tulip
+🌸	U+1F338	&#x1F338;	&#127800;	F0 9F 8C B8	\u1F338	Cherry Blossom
+🌹	U+1F339	&#x1F339;	&#127801;	F0 9F 8C B9	\u1F339	Rose
+🌺	U+1F33A	&#x1F33A;	&#127802;	F0 9F 8C BA	\u1F33A	Hibiscus
+🌻	U+1F33B	&#x1F33B;	&#127803;	F0 9F 8C BB	\u1F33B	Sunflower
+🌼	U+1F33C	&#x1F33C;	&#127804;	F0 9F 8C BC	\u1F33C	Blossom
+🌽	U+1F33D	&#x1F33D;	&#127805;	F0 9F 8C BD	\u1F33D	Ear Of Maize
+🌾	U+1F33E	&#x1F33E;	&#127806;	F0 9F 8C BE	\u1F33E	Ear Of Rice
+🌿	U+1F33F	&#x1F33F;	&#127807;	F0 9F 8C BF	\u1F33F	Herb
+🍀	U+1F340	&#x1F340;	&#127808;	F0 9F 8D 80	\u1F340	Four Leaf Clover
+🍁	U+1F341	&#x1F341;	&#127809;	F0 9F 8D 81	\u1F341	Maple Leaf
+🍂	U+1F342	&#x1F342;	&#127810;	F0 9F 8D 82	\u1F342	Fallen Leaf
+🍃	U+1F343	&#x1F343;	&#127811;	F0 9F 8D 83	\u1F343	Leaf Fluttering In Wind
+🍄	U+1F344	&#x1F344;	&#127812;	F0 9F 8D 84	\u1F344	Mushroom
+🍅	U+1F345	&#x1F345;	&#127813;	F0 9F 8D 85	\u1F345	Tomato
+🍆	U+1F346	&#x1F346;	&#127814;	F0 9F 8D 86	\u1F346	Aubergine
+🍇	U+1F347	&#x1F347;	&#127815;	F0 9F 8D 87	\u1F347	Grapes
+🍈	U+1F348	&#x1F348;	&#127816;	F0 9F 8D 88	\u1F348	Melon
+🍉	U+1F349	&#x1F349;	&#127817;	F0 9F 8D 89	\u1F349	Watermelon
+🍊	U+1F34A	&#x1F34A;	&#127818;	F0 9F 8D 8A	\u1F34A	Tangerine
+🍋	U+1F34B	&#x1F34B;	&#127819;	F0 9F 8D 8B	\u1F34B	Lemon
+🍌	U+1F34C	&#x1F34C;	&#127820;	F0 9F 8D 8C	\u1F34C	Banana
+🍍	U+1F34D	&#x1F34D;	&#127821;	F0 9F 8D 8D	\u1F34D	Pineapple
+🍎	U+1F34E	&#x1F34E;	&#127822;	F0 9F 8D 8E	\u1F34E	Red Apple
+🍏	U+1F34F	&#x1F34F;	&#127823;	F0 9F 8D 8F	\u1F34F	Green Apple
+🍐	U+1F350	&#x1F350;	&#127824;	F0 9F 8D 90	\u1F350	Pear
+🍑	U+1F351	&#x1F351;	&#127825;	F0 9F 8D 91	\u1F351	Peach
+🍒	U+1F352	&#x1F352;	&#127826;	F0 9F 8D 92	\u1F352	Cherries
+🍓	U+1F353	&#x1F353;	&#127827;	F0 9F 8D 93	\u1F353	Strawberry
+🍔	U+1F354	&#x1F354;	&#127828;	F0 9F 8D 94	\u1F354	Hamburger
+🍕	U+1F355	&#x1F355;	&#127829;	F0 9F 8D 95	\u1F355	Slice Of Pizza
+🍖	U+1F356	&#x1F356;	&#127830;	F0 9F 8D 96	\u1F356	Meat On Bone
+🍗	U+1F357	&#x1F357;	&#127831;	F0 9F 8D 97	\u1F357	Poultry Leg
+🍘	U+1F358	&#x1F358;	&#127832;	F0 9F 8D 98	\u1F358	Rice Cracker
+🍙	U+1F359	&#x1F359;	&#127833;	F0 9F 8D 99	\u1F359	Rice Ball
+🍚	U+1F35A	&#x1F35A;	&#127834;	F0 9F 8D 9A	\u1F35A	Cooked Rice
+🍛	U+1F35B	&#x1F35B;	&#127835;	F0 9F 8D 9B	\u1F35B	Curry And Rice
+🍜	U+1F35C	&#x1F35C;	&#127836;	F0 9F 8D 9C	\u1F35C	Steaming Bowl
+🍝	U+1F35D	&#x1F35D;	&#127837;	F0 9F 8D 9D	\u1F35D	Spaghetti
+🍞	U+1F35E	&#x1F35E;	&#127838;	F0 9F 8D 9E	\u1F35E	Bread
+🍟	U+1F35F	&#x1F35F;	&#127839;	F0 9F 8D 9F	\u1F35F	French Fries
+🍠	U+1F360	&#x1F360;	&#127840;	F0 9F 8D A0	\u1F360	Roasted Sweet Potato
+🍡	U+1F361	&#x1F361;	&#127841;	F0 9F 8D A1	\u1F361	Dango
+🍢	U+1F362	&#x1F362;	&#127842;	F0 9F 8D A2	\u1F362	Oden
+🍣	U+1F363	&#x1F363;	&#127843;	F0 9F 8D A3	\u1F363	Sushi
+🍤	U+1F364	&#x1F364;	&#127844;	F0 9F 8D A4	\u1F364	Fried Shrimp
+🍥	U+1F365	&#x1F365;	&#127845;	F0 9F 8D A5	\u1F365	Fish Cake With Swirl Design
+🍦	U+1F366	&#x1F366;	&#127846;	F0 9F 8D A6	\u1F366	Soft Ice Cream
+🍧	U+1F367	&#x1F367;	&#127847;	F0 9F 8D A7	\u1F367	Shaved Ice
+🍨	U+1F368	&#x1F368;	&#127848;	F0 9F 8D A8	\u1F368	Ice Cream
+🍩	U+1F369	&#x1F369;	&#127849;	F0 9F 8D A9	\u1F369	Doughnut
+🍪	U+1F36A	&#x1F36A;	&#127850;	F0 9F 8D AA	\u1F36A	Cookie
+🍫	U+1F36B	&#x1F36B;	&#127851;	F0 9F 8D AB	\u1F36B	Chocolate Bar
+🍬	U+1F36C	&#x1F36C;	&#127852;	F0 9F 8D AC	\u1F36C	Candy
+🍭	U+1F36D	&#x1F36D;	&#127853;	F0 9F 8D AD	\u1F36D	Lollipop
+🍮	U+1F36E	&#x1F36E;	&#127854;	F0 9F 8D AE	\u1F36E	Custard
+🍯	U+1F36F	&#x1F36F;	&#127855;	F0 9F 8D AF	\u1F36F	Honey Pot
+🍰	U+1F370	&#x1F370;	&#127856;	F0 9F 8D B0	\u1F370	Shortcake
+🍱	U+1F371	&#x1F371;	&#127857;	F0 9F 8D B1	\u1F371	Bento Box
+🍲	U+1F372	&#x1F372;	&#127858;	F0 9F 8D B2	\u1F372	Pot Of Food
+🍳	U+1F373	&#x1F373;	&#127859;	F0 9F 8D B3	\u1F373	Cooking
+🍴	U+1F374	&#x1F374;	&#127860;	F0 9F 8D B4	\u1F374	Fork And Knife
+🍵	U+1F375	&#x1F375;	&#127861;	F0 9F 8D B5	\u1F375	Teacup Without Handle
+🍶	U+1F376	&#x1F376;	&#127862;	F0 9F 8D B6	\u1F376	Sake Bottle And Cup
+🍷	U+1F377	&#x1F377;	&#127863;	F0 9F 8D B7	\u1F377	Wine Glass
+🍸	U+1F378	&#x1F378;	&#127864;	F0 9F 8D B8	\u1F378	Cocktail Glass
+🍹	U+1F379	&#x1F379;	&#127865;	F0 9F 8D B9	\u1F379	Tropical Drink
+🍺	U+1F37A	&#x1F37A;	&#127866;	F0 9F 8D BA	\u1F37A	Beer Mug
+🍻	U+1F37B	&#x1F37B;	&#127867;	F0 9F 8D BB	\u1F37B	Clinking Beer Mugs
+🍼	U+1F37C	&#x1F37C;	&#127868;	F0 9F 8D BC	\u1F37C	Baby Bottle
+🎀	U+1F380	&#x1F380;	&#127872;	F0 9F 8E 80	\u1F380	Ribbon
+🎁	U+1F381	&#x1F381;	&#127873;	F0 9F 8E 81	\u1F381	Wrapped Present
+🎂	U+1F382	&#x1F382;	&#127874;	F0 9F 8E 82	\u1F382	Birthday Cake
+🎃	U+1F383	&#x1F383;	&#127875;	F0 9F 8E 83	\u1F383	Jack-o-lantern
+🎄	U+1F384	&#x1F384;	&#127876;	F0 9F 8E 84	\u1F384	Christmas Tree
+🎅	U+1F385	&#x1F385;	&#127877;	F0 9F 8E 85	\u1F385	Father Christmas
+🎆	U+1F386	&#x1F386;	&#127878;	F0 9F 8E 86	\u1F386	Fireworks
+🎇	U+1F387	&#x1F387;	&#127879;	F0 9F 8E 87	\u1F387	Firework Sparkler
+🎈	U+1F388	&#x1F388;	&#127880;	F0 9F 8E 88	\u1F388	Balloon
+🎉	U+1F389	&#x1F389;	&#127881;	F0 9F 8E 89	\u1F389	Party Popper
+🎊	U+1F38A	&#x1F38A;	&#127882;	F0 9F 8E 8A	\u1F38A	Confetti Ball
+🎋	U+1F38B	&#x1F38B;	&#127883;	F0 9F 8E 8B	\u1F38B	Tanabata Tree
+🎌	U+1F38C	&#x1F38C;	&#127884;	F0 9F 8E 8C	\u1F38C	Crossed Flags
+🎍	U+1F38D	&#x1F38D;	&#127885;	F0 9F 8E 8D	\u1F38D	Pine Decoration
+🎎	U+1F38E	&#x1F38E;	&#127886;	F0 9F 8E 8E	\u1F38E	Japanese Dolls
+🎏	U+1F38F	&#x1F38F;	&#127887;	F0 9F 8E 8F	\u1F38F	Carp Streamer
+🎐	U+1F390	&#x1F390;	&#127888;	F0 9F 8E 90	\u1F390	Wind Chime
+🎑	U+1F391	&#x1F391;	&#127889;	F0 9F 8E 91	\u1F391	Moon Viewing Ceremony
+🎒	U+1F392	&#x1F392;	&#127890;	F0 9F 8E 92	\u1F392	School Satchel
+🎓	U+1F393	&#x1F393;	&#127891;	F0 9F 8E 93	\u1F393	Graduation Cap
+🎠	U+1F3A0	&#x1F3A0;	&#127904;	F0 9F 8E A0	\u1F3A0	Carousel Horse
+🎡	U+1F3A1	&#x1F3A1;	&#127905;	F0 9F 8E A1	\u1F3A1	Ferris Wheel
+🎢	U+1F3A2	&#x1F3A2;	&#127906;	F0 9F 8E A2	\u1F3A2	Roller Coaster
+🎣	U+1F3A3	&#x1F3A3;	&#127907;	F0 9F 8E A3	\u1F3A3	Fishing Pole And Fish
+🎤	U+1F3A4	&#x1F3A4;	&#127908;	F0 9F 8E A4	\u1F3A4	Microphone
+🎥	U+1F3A5	&#x1F3A5;	&#127909;	F0 9F 8E A5	\u1F3A5	Movie Camera
+🎦	U+1F3A6	&#x1F3A6;	&#127910;	F0 9F 8E A6	\u1F3A6	Cinema
+🎧	U+1F3A7	&#x1F3A7;	&#127911;	F0 9F 8E A7	\u1F3A7	Headphone
+🎨	U+1F3A8	&#x1F3A8;	&#127912;	F0 9F 8E A8	\u1F3A8	Artist Palette
+🎩	U+1F3A9	&#x1F3A9;	&#127913;	F0 9F 8E A9	\u1F3A9	Top Hat
+🎪	U+1F3AA	&#x1F3AA;	&#127914;	F0 9F 8E AA	\u1F3AA	Circus Tent
+🎫	U+1F3AB	&#x1F3AB;	&#127915;	F0 9F 8E AB	\u1F3AB	Ticket
+🎬	U+1F3AC	&#x1F3AC;	&#127916;	F0 9F 8E AC	\u1F3AC	Clapper Board
+🎭	U+1F3AD	&#x1F3AD;	&#127917;	F0 9F 8E AD	\u1F3AD	Performing Arts
+🎮	U+1F3AE	&#x1F3AE;	&#127918;	F0 9F 8E AE	\u1F3AE	Video Game
+🎯	U+1F3AF	&#x1F3AF;	&#127919;	F0 9F 8E AF	\u1F3AF	Direct Hit
+🎰	U+1F3B0	&#x1F3B0;	&#127920;	F0 9F 8E B0	\u1F3B0	Slot Machine
+🎱	U+1F3B1	&#x1F3B1;	&#127921;	F0 9F 8E B1	\u1F3B1	Billiards
+🎲	U+1F3B2	&#x1F3B2;	&#127922;	F0 9F 8E B2	\u1F3B2	Game Die
+🎳	U+1F3B3	&#x1F3B3;	&#127923;	F0 9F 8E B3	\u1F3B3	Bowling
+🎴	U+1F3B4	&#x1F3B4;	&#127924;	F0 9F 8E B4	\u1F3B4	Flower Playing Cards
+🎵	U+1F3B5	&#x1F3B5;	&#127925;	F0 9F 8E B5	\u1F3B5	Musical Note
+🎶	U+1F3B6	&#x1F3B6;	&#127926;	F0 9F 8E B6	\u1F3B6	Multiple Musical Notes
+🎷	U+1F3B7	&#x1F3B7;	&#127927;	F0 9F 8E B7	\u1F3B7	Saxophone
+🎸	U+1F3B8	&#x1F3B8;	&#127928;	F0 9F 8E B8	\u1F3B8	Guitar
+🎹	U+1F3B9	&#x1F3B9;	&#127929;	F0 9F 8E B9	\u1F3B9	Musical Keyboard
+🎺	U+1F3BA	&#x1F3BA;	&#127930;	F0 9F 8E BA	\u1F3BA	Trumpet
+🎻	U+1F3BB	&#x1F3BB;	&#127931;	F0 9F 8E BB	\u1F3BB	Violin
+🎼	U+1F3BC	&#x1F3BC;	&#127932;	F0 9F 8E BC	\u1F3BC	Musical Score
+🎽	U+1F3BD	&#x1F3BD;	&#127933;	F0 9F 8E BD	\u1F3BD	Running Shirt With Sash
+🎾	U+1F3BE	&#x1F3BE;	&#127934;	F0 9F 8E BE	\u1F3BE	Tennis Racquet And Ball
+🎿	U+1F3BF	&#x1F3BF;	&#127935;	F0 9F 8E BF	\u1F3BF	Ski And Ski Boot
+🏀	U+1F3C0	&#x1F3C0;	&#127936;	F0 9F 8F 80	\u1F3C0	Basketball And Hoop
+🏁	U+1F3C1	&#x1F3C1;	&#127937;	F0 9F 8F 81	\u1F3C1	Chequered Flag
+🏂	U+1F3C2	&#x1F3C2;	&#127938;	F0 9F 8F 82	\u1F3C2	Snowboarder
+🏃	U+1F3C3	&#x1F3C3;	&#127939;	F0 9F 8F 83	\u1F3C3	Runner
+🏄	U+1F3C4	&#x1F3C4;	&#127940;	F0 9F 8F 84	\u1F3C4	Surfer
+🏆	U+1F3C6	&#x1F3C6;	&#127942;	F0 9F 8F 86	\u1F3C6	Trophy
+🏇	U+1F3C7	&#x1F3C7;	&#127943;	F0 9F 8F 87	\u1F3C7	Horse Racing
+🏈	U+1F3C8	&#x1F3C8;	&#127944;	F0 9F 8F 88	\u1F3C8	American Football
+🏉	U+1F3C9	&#x1F3C9;	&#127945;	F0 9F 8F 89	\u1F3C9	Rugby Football
+🏊	U+1F3CA	&#x1F3CA;	&#127946;	F0 9F 8F 8A	\u1F3CA	Swimmer
+🏠	U+1F3E0	&#x1F3E0;	&#127968;	F0 9F 8F A0	\u1F3E0	House Building
+🏡	U+1F3E1	&#x1F3E1;	&#127969;	F0 9F 8F A1	\u1F3E1	House With Garden
+🏢	U+1F3E2	&#x1F3E2;	&#127970;	F0 9F 8F A2	\u1F3E2	Office Building
+🏣	U+1F3E3	&#x1F3E3;	&#127971;	F0 9F 8F A3	\u1F3E3	Japanese Post Office
+🏤	U+1F3E4	&#x1F3E4;	&#127972;	F0 9F 8F A4	\u1F3E4	European Post Office
+🏥	U+1F3E5	&#x1F3E5;	&#127973;	F0 9F 8F A5	\u1F3E5	Hospital
+🏦	U+1F3E6	&#x1F3E6;	&#127974;	F0 9F 8F A6	\u1F3E6	Bank
+🏧	U+1F3E7	&#x1F3E7;	&#127975;	F0 9F 8F A7	\u1F3E7	Automated Teller Machine
+🏨	U+1F3E8	&#x1F3E8;	&#127976;	F0 9F 8F A8	\u1F3E8	Hotel
+🏩	U+1F3E9	&#x1F3E9;	&#127977;	F0 9F 8F A9	\u1F3E9	Love Hotel
+🏪	U+1F3EA	&#x1F3EA;	&#127978;	F0 9F 8F AA	\u1F3EA	Convenience Store
+🏫	U+1F3EB	&#x1F3EB;	&#127979;	F0 9F 8F AB	\u1F3EB	School
+🏬	U+1F3EC	&#x1F3EC;	&#127980;	F0 9F 8F AC	\u1F3EC	Department Store
+🏭	U+1F3ED	&#x1F3ED;	&#127981;	F0 9F 8F AD	\u1F3ED	Factory
+🏮	U+1F3EE	&#x1F3EE;	&#127982;	F0 9F 8F AE	\u1F3EE	Izakaya Lantern
+🏯	U+1F3EF	&#x1F3EF;	&#127983;	F0 9F 8F AF	\u1F3EF	Japanese Castle
+🏰	U+1F3F0	&#x1F3F0;	&#127984;	F0 9F 8F B0	\u1F3F0	European Castle
+🐀	U+1F400	&#x1F400;	&#128000;	F0 9F 90 80	\u1F400	Rat
+🐁	U+1F401	&#x1F401;	&#128001;	F0 9F 90 81	\u1F401	Mouse
+🐂	U+1F402	&#x1F402;	&#128002;	F0 9F 90 82	\u1F402	Ox
+🐃	U+1F403	&#x1F403;	&#128003;	F0 9F 90 83	\u1F403	Water Buffalo
+🐄	U+1F404	&#x1F404;	&#128004;	F0 9F 90 84	\u1F404	Cow
+🐅	U+1F405	&#x1F405;	&#128005;	F0 9F 90 85	\u1F405	Tiger
+🐆	U+1F406	&#x1F406;	&#128006;	F0 9F 90 86	\u1F406	Leopard
+🐇	U+1F407	&#x1F407;	&#128007;	F0 9F 90 87	\u1F407	Rabbit
+🐈	U+1F408	&#x1F408;	&#128008;	F0 9F 90 88	\u1F408	Cat
+🐉	U+1F409	&#x1F409;	&#128009;	F0 9F 90 89	\u1F409	Dragon
+🐊	U+1F40A	&#x1F40A;	&#128010;	F0 9F 90 8A	\u1F40A	Crocodile
+🐋	U+1F40B	&#x1F40B;	&#128011;	F0 9F 90 8B	\u1F40B	Whale
+🐌	U+1F40C	&#x1F40C;	&#128012;	F0 9F 90 8C	\u1F40C	Snail
+🐍	U+1F40D	&#x1F40D;	&#128013;	F0 9F 90 8D	\u1F40D	Snake
+🐎	U+1F40E	&#x1F40E;	&#128014;	F0 9F 90 8E	\u1F40E	Horse
+🐏	U+1F40F	&#x1F40F;	&#128015;	F0 9F 90 8F	\u1F40F	Ram
+🐐	U+1F410	&#x1F410;	&#128016;	F0 9F 90 90	\u1F410	Goat
+🐑	U+1F411	&#x1F411;	&#128017;	F0 9F 90 91	\u1F411	Sheep
+🐒	U+1F412	&#x1F412;	&#128018;	F0 9F 90 92	\u1F412	Monkey
+🐓	U+1F413	&#x1F413;	&#128019;	F0 9F 90 93	\u1F413	Rooster
+🐔	U+1F414	&#x1F414;	&#128020;	F0 9F 90 94	\u1F414	Chicken
+🐕	U+1F415	&#x1F415;	&#128021;	F0 9F 90 95	\u1F415	Dog
+🐖	U+1F416	&#x1F416;	&#128022;	F0 9F 90 96	\u1F416	Pig
+🐗	U+1F417	&#x1F417;	&#128023;	F0 9F 90 97	\u1F417	Boar
+🐘	U+1F418	&#x1F418;	&#128024;	F0 9F 90 98	\u1F418	Elephant
+🐙	U+1F419	&#x1F419;	&#128025;	F0 9F 90 99	\u1F419	Octopus
+🐚	U+1F41A	&#x1F41A;	&#128026;	F0 9F 90 9A	\u1F41A	Spiral Shell
+🐛	U+1F41B	&#x1F41B;	&#128027;	F0 9F 90 9B	\u1F41B	Bug
+🐜	U+1F41C	&#x1F41C;	&#128028;	F0 9F 90 9C	\u1F41C	Ant
+🐝	U+1F41D	&#x1F41D;	&#128029;	F0 9F 90 9D	\u1F41D	Honeybee
+🐞	U+1F41E	&#x1F41E;	&#128030;	F0 9F 90 9E	\u1F41E	Lady Beetle
+🐟	U+1F41F	&#x1F41F;	&#128031;	F0 9F 90 9F	\u1F41F	Fish
+🐠	U+1F420	&#x1F420;	&#128032;	F0 9F 90 A0	\u1F420	Tropical Fish
+🐡	U+1F421	&#x1F421;	&#128033;	F0 9F 90 A1	\u1F421	Blowfish
+🐢	U+1F422	&#x1F422;	&#128034;	F0 9F 90 A2	\u1F422	Turtle
+🐣	U+1F423	&#x1F423;	&#128035;	F0 9F 90 A3	\u1F423	Hatching Chick
+🐤	U+1F424	&#x1F424;	&#128036;	F0 9F 90 A4	\u1F424	Baby Chick
+🐥	U+1F425	&#x1F425;	&#128037;	F0 9F 90 A5	\u1F425	Front-facing Baby Chick
+🐦	U+1F426	&#x1F426;	&#128038;	F0 9F 90 A6	\u1F426	Bird
+🐧	U+1F427	&#x1F427;	&#128039;	F0 9F 90 A7	\u1F427	Penguin
+🐨	U+1F428	&#x1F428;	&#128040;	F0 9F 90 A8	\u1F428	Koala
+🐩	U+1F429	&#x1F429;	&#128041;	F0 9F 90 A9	\u1F429	Poodle
+🐪	U+1F42A	&#x1F42A;	&#128042;	F0 9F 90 AA	\u1F42A	Dromedary Camel
+🐫	U+1F42B	&#x1F42B;	&#128043;	F0 9F 90 AB	\u1F42B	Bactrian Camel
+🐬	U+1F42C	&#x1F42C;	&#128044;	F0 9F 90 AC	\u1F42C	Dolphin
+🐭	U+1F42D	&#x1F42D;	&#128045;	F0 9F 90 AD	\u1F42D	Mouse Face
+🐮	U+1F42E	&#x1F42E;	&#128046;	F0 9F 90 AE	\u1F42E	Cow Face
+🐯	U+1F42F	&#x1F42F;	&#128047;	F0 9F 90 AF	\u1F42F	Tiger Face
+🐰	U+1F430	&#x1F430;	&#128048;	F0 9F 90 B0	\u1F430	Rabbit Face
+🐱	U+1F431	&#x1F431;	&#128049;	F0 9F 90 B1	\u1F431	Cat Face
+🐲	U+1F432	&#x1F432;	&#128050;	F0 9F 90 B2	\u1F432	Dragon Face
+🐳	U+1F433	&#x1F433;	&#128051;	F0 9F 90 B3	\u1F433	Spouting Whale
+🐴	U+1F434	&#x1F434;	&#128052;	F0 9F 90 B4	\u1F434	Horse Face
+🐵	U+1F435	&#x1F435;	&#128053;	F0 9F 90 B5	\u1F435	Monkey Face
+🐶	U+1F436	&#x1F436;	&#128054;	F0 9F 90 B6	\u1F436	Dog Face
+🐷	U+1F437	&#x1F437;	&#128055;	F0 9F 90 B7	\u1F437	Pig Face
+🐸	U+1F438	&#x1F438;	&#128056;	F0 9F 90 B8	\u1F438	Frog Face
+🐹	U+1F439	&#x1F439;	&#128057;	F0 9F 90 B9	\u1F439	Hamster Face
+🐺	U+1F43A	&#x1F43A;	&#128058;	F0 9F 90 BA	\u1F43A	Wolf Face
+🐻	U+1F43B	&#x1F43B;	&#128059;	F0 9F 90 BB	\u1F43B	Bear Face
+🐼	U+1F43C	&#x1F43C;	&#128060;	F0 9F 90 BC	\u1F43C	Panda Face
+🐽	U+1F43D	&#x1F43D;	&#128061;	F0 9F 90 BD	\u1F43D	Pig Nose
+🐾	U+1F43E	&#x1F43E;	&#128062;	F0 9F 90 BE	\u1F43E	Paw Prints
+👀	U+1F440	&#x1F440;	&#128064;	F0 9F 91 80	\u1F440	Eyes
+👂	U+1F442	&#x1F442;	&#128066;	F0 9F 91 82	\u1F442	Ear
+👃	U+1F443	&#x1F443;	&#128067;	F0 9F 91 83	\u1F443	Nose
+👄	U+1F444	&#x1F444;	&#128068;	F0 9F 91 84	\u1F444	Mouth
+👅	U+1F445	&#x1F445;	&#128069;	F0 9F 91 85	\u1F445	Tongue
+👆	U+1F446	&#x1F446;	&#128070;	F0 9F 91 86	\u1F446	White Up Pointing Backhand Index
+👇	U+1F447	&#x1F447;	&#128071;	F0 9F 91 87	\u1F447	White Down Pointing Backhand Index
+👈	U+1F448	&#x1F448;	&#128072;	F0 9F 91 88	\u1F448	White Left Pointing Backhand Index
+👉	U+1F449	&#x1F449;	&#128073;	F0 9F 91 89	\u1F449	White Right Pointing Backhand Index
+👊	U+1F44A	&#x1F44A;	&#128074;	F0 9F 91 8A	\u1F44A	Fisted Hand Sign
+👋	U+1F44B	&#x1F44B;	&#128075;	F0 9F 91 8B	\u1F44B	Waving Hand Sign
+👌	U+1F44C	&#x1F44C;	&#128076;	F0 9F 91 8C	\u1F44C	Ok Hand Sign
+👍	U+1F44D	&#x1F44D;	&#128077;	F0 9F 91 8D	\u1F44D	Thumbs Up Sign
+👎	U+1F44E	&#x1F44E;	&#128078;	F0 9F 91 8E	\u1F44E	Thumbs Down Sign
+👏	U+1F44F	&#x1F44F;	&#128079;	F0 9F 91 8F	\u1F44F	Clapping Hands Sign
+👐	U+1F450	&#x1F450;	&#128080;	F0 9F 91 90	\u1F450	Open Hands Sign
+👑	U+1F451	&#x1F451;	&#128081;	F0 9F 91 91	\u1F451	Crown
+👒	U+1F452	&#x1F452;	&#128082;	F0 9F 91 92	\u1F452	Womans Hat
+👓	U+1F453	&#x1F453;	&#128083;	F0 9F 91 93	\u1F453	Eyeglasses
+👔	U+1F454	&#x1F454;	&#128084;	F0 9F 91 94	\u1F454	Necktie
+👕	U+1F455	&#x1F455;	&#128085;	F0 9F 91 95	\u1F455	T-shirt
+👖	U+1F456	&#x1F456;	&#128086;	F0 9F 91 96	\u1F456	Jeans
+👗	U+1F457	&#x1F457;	&#128087;	F0 9F 91 97	\u1F457	Dress
+👘	U+1F458	&#x1F458;	&#128088;	F0 9F 91 98	\u1F458	Kimono
+👙	U+1F459	&#x1F459;	&#128089;	F0 9F 91 99	\u1F459	Bikini
+👚	U+1F45A	&#x1F45A;	&#128090;	F0 9F 91 9A	\u1F45A	Womans Clothes
+👛	U+1F45B	&#x1F45B;	&#128091;	F0 9F 91 9B	\u1F45B	Purse
+👜	U+1F45C	&#x1F45C;	&#128092;	F0 9F 91 9C	\u1F45C	Handbag
+👝	U+1F45D	&#x1F45D;	&#128093;	F0 9F 91 9D	\u1F45D	Pouch
+👞	U+1F45E	&#x1F45E;	&#128094;	F0 9F 91 9E	\u1F45E	Mans Shoe
+👟	U+1F45F	&#x1F45F;	&#128095;	F0 9F 91 9F	\u1F45F	Athletic Shoe
+👠	U+1F460	&#x1F460;	&#128096;	F0 9F 91 A0	\u1F460	High-heeled Shoe
+👡	U+1F461	&#x1F461;	&#128097;	F0 9F 91 A1	\u1F461	Womans Sandal
+👢	U+1F462	&#x1F462;	&#128098;	F0 9F 91 A2	\u1F462	Womans Boots
+👣	U+1F463	&#x1F463;	&#128099;	F0 9F 91 A3	\u1F463	Footprints
+👤	U+1F464	&#x1F464;	&#128100;	F0 9F 91 A4	\u1F464	Bust In Silhouette
+👥	U+1F465	&#x1F465;	&#128101;	F0 9F 91 A5	\u1F465	Busts In Silhouette
+👦	U+1F466	&#x1F466;	&#128102;	F0 9F 91 A6	\u1F466	Boy
+👧	U+1F467	&#x1F467;	&#128103;	F0 9F 91 A7	\u1F467	Girl
+👨	U+1F468	&#x1F468;	&#128104;	F0 9F 91 A8	\u1F468	Man
+👩	U+1F469	&#x1F469;	&#128105;	F0 9F 91 A9	\u1F469	Woman
+👪	U+1F46A	&#x1F46A;	&#128106;	F0 9F 91 AA	\u1F46A	Family
+👫	U+1F46B	&#x1F46B;	&#128107;	F0 9F 91 AB	\u1F46B	Man And Woman Holding Hands
+👬	U+1F46C	&#x1F46C;	&#128108;	F0 9F 91 AC	\u1F46C	Two Men Holding Hands
+👭	U+1F46D	&#x1F46D;	&#128109;	F0 9F 91 AD	\u1F46D	Two Women Holding Hands
+👮	U+1F46E	&#x1F46E;	&#128110;	F0 9F 91 AE	\u1F46E	Police Officer
+👯	U+1F46F	&#x1F46F;	&#128111;	F0 9F 91 AF	\u1F46F	Woman With Bunny Ears
+👰	U+1F470	&#x1F470;	&#128112;	F0 9F 91 B0	\u1F470	Bride With Veil
+👱	U+1F471	&#x1F471;	&#128113;	F0 9F 91 B1	\u1F471	Person With Blond Hair
+👲	U+1F472	&#x1F472;	&#128114;	F0 9F 91 B2	\u1F472	Man With Gua Pi Mao
+👳	U+1F473	&#x1F473;	&#128115;	F0 9F 91 B3	\u1F473	Man With Turban
+👴	U+1F474	&#x1F474;	&#128116;	F0 9F 91 B4	\u1F474	Older Man
+👵	U+1F475	&#x1F475;	&#128117;	F0 9F 91 B5	\u1F475	Older Woman
+👶	U+1F476	&#x1F476;	&#128118;	F0 9F 91 B6	\u1F476	Baby
+👷	U+1F477	&#x1F477;	&#128119;	F0 9F 91 B7	\u1F477	Construction Worker
+👸	U+1F478	&#x1F478;	&#128120;	F0 9F 91 B8	\u1F478	Princess
+👹	U+1F479	&#x1F479;	&#128121;	F0 9F 91 B9	\u1F479	Japanese Ogre
+👺	U+1F47A	&#x1F47A;	&#128122;	F0 9F 91 BA	\u1F47A	Japanese Goblin
+👻	U+1F47B	&#x1F47B;	&#128123;	F0 9F 91 BB	\u1F47B	Ghost
+👼	U+1F47C	&#x1F47C;	&#128124;	F0 9F 91 BC	\u1F47C	Baby Angel
+👽	U+1F47D	&#x1F47D;	&#128125;	F0 9F 91 BD	\u1F47D	Extraterrestrial Alien
+👾	U+1F47E	&#x1F47E;	&#128126;	F0 9F 91 BE	\u1F47E	Alien Monster
+👿	U+1F47F	&#x1F47F;	&#128127;	F0 9F 91 BF	\u1F47F	Imp
+💀	U+1F480	&#x1F480;	&#128128;	F0 9F 92 80	\u1F480	Skull
+💁	U+1F481	&#x1F481;	&#128129;	F0 9F 92 81	\u1F481	Information Desk Person
+💂	U+1F482	&#x1F482;	&#128130;	F0 9F 92 82	\u1F482	Guardsman
+💃	U+1F483	&#x1F483;	&#128131;	F0 9F 92 83	\u1F483	Dancer
+💄	U+1F484	&#x1F484;	&#128132;	F0 9F 92 84	\u1F484	Lipstick
+💅	U+1F485	&#x1F485;	&#128133;	F0 9F 92 85	\u1F485	Nail Polish
+💆	U+1F486	&#x1F486;	&#128134;	F0 9F 92 86	\u1F486	Face Massage
+💇	U+1F487	&#x1F487;	&#128135;	F0 9F 92 87	\u1F487	Haircut
+💈	U+1F488	&#x1F488;	&#128136;	F0 9F 92 88	\u1F488	Barber Pole
+💉	U+1F489	&#x1F489;	&#128137;	F0 9F 92 89	\u1F489	Syringe
+💊	U+1F48A	&#x1F48A;	&#128138;	F0 9F 92 8A	\u1F48A	Pill
+💋	U+1F48B	&#x1F48B;	&#128139;	F0 9F 92 8B	\u1F48B	Kiss Mark
+💌	U+1F48C	&#x1F48C;	&#128140;	F0 9F 92 8C	\u1F48C	Love Letter
+💍	U+1F48D	&#x1F48D;	&#128141;	F0 9F 92 8D	\u1F48D	Ring
+💎	U+1F48E	&#x1F48E;	&#128142;	F0 9F 92 8E	\u1F48E	Gem Stone
+💏	U+1F48F	&#x1F48F;	&#128143;	F0 9F 92 8F	\u1F48F	Kiss
+💐	U+1F490	&#x1F490;	&#128144;	F0 9F 92 90	\u1F490	Bouquet
+💑	U+1F491	&#x1F491;	&#128145;	F0 9F 92 91	\u1F491	Couple With Heart
+💒	U+1F492	&#x1F492;	&#128146;	F0 9F 92 92	\u1F492	Wedding
+💓	U+1F493	&#x1F493;	&#128147;	F0 9F 92 93	\u1F493	Beating Heart
+💔	U+1F494	&#x1F494;	&#128148;	F0 9F 92 94	\u1F494	Broken Heart
+💕	U+1F495	&#x1F495;	&#128149;	F0 9F 92 95	\u1F495	Two Hearts
+💖	U+1F496	&#x1F496;	&#128150;	F0 9F 92 96	\u1F496	Sparkling Heart
+💗	U+1F497	&#x1F497;	&#128151;	F0 9F 92 97	\u1F497	Growing Heart
+💘	U+1F498	&#x1F498;	&#128152;	F0 9F 92 98	\u1F498	Heart With Arrow
+💙	U+1F499	&#x1F499;	&#128153;	F0 9F 92 99	\u1F499	Blue Heart
+💚	U+1F49A	&#x1F49A;	&#128154;	F0 9F 92 9A	\u1F49A	Green Heart
+💛	U+1F49B	&#x1F49B;	&#128155;	F0 9F 92 9B	\u1F49B	Yellow Heart
+💜	U+1F49C	&#x1F49C;	&#128156;	F0 9F 92 9C	\u1F49C	Purple Heart
+💝	U+1F49D	&#x1F49D;	&#128157;	F0 9F 92 9D	\u1F49D	Heart With Ribbon
+💞	U+1F49E	&#x1F49E;	&#128158;	F0 9F 92 9E	\u1F49E	Revolving Hearts
+💟	U+1F49F	&#x1F49F;	&#128159;	F0 9F 92 9F	\u1F49F	Heart Decoration
+💠	U+1F4A0	&#x1F4A0;	&#128160;	F0 9F 92 A0	\u1F4A0	Diamond Shape With A Dot Inside
+💡	U+1F4A1	&#x1F4A1;	&#128161;	F0 9F 92 A1	\u1F4A1	Electric Light Bulb
+💢	U+1F4A2	&#x1F4A2;	&#128162;	F0 9F 92 A2	\u1F4A2	Anger Symbol
+💣	U+1F4A3	&#x1F4A3;	&#128163;	F0 9F 92 A3	\u1F4A3	Bomb
+💤	U+1F4A4	&#x1F4A4;	&#128164;	F0 9F 92 A4	\u1F4A4	Sleeping Symbol
+💥	U+1F4A5	&#x1F4A5;	&#128165;	F0 9F 92 A5	\u1F4A5	Collision Symbol
+💦	U+1F4A6	&#x1F4A6;	&#128166;	F0 9F 92 A6	\u1F4A6	Splashing Sweat Symbol
+💧	U+1F4A7	&#x1F4A7;	&#128167;	F0 9F 92 A7	\u1F4A7	Droplet
+💨	U+1F4A8	&#x1F4A8;	&#128168;	F0 9F 92 A8	\u1F4A8	Dash Symbol
+💩	U+1F4A9	&#x1F4A9;	&#128169;	F0 9F 92 A9	\u1F4A9	Pile Of Poo
+💪	U+1F4AA	&#x1F4AA;	&#128170;	F0 9F 92 AA	\u1F4AA	Flexed Biceps
+💫	U+1F4AB	&#x1F4AB;	&#128171;	F0 9F 92 AB	\u1F4AB	Dizzy Symbol
+💬	U+1F4AC	&#x1F4AC;	&#128172;	F0 9F 92 AC	\u1F4AC	Speech Balloon
+💭	U+1F4AD	&#x1F4AD;	&#128173;	F0 9F 92 AD	\u1F4AD	Thought Balloon
+💮	U+1F4AE	&#x1F4AE;	&#128174;	F0 9F 92 AE	\u1F4AE	White Flower
+💯	U+1F4AF	&#x1F4AF;	&#128175;	F0 9F 92 AF	\u1F4AF	Hundred Points Symbol
+💰	U+1F4B0	&#x1F4B0;	&#128176;	F0 9F 92 B0	\u1F4B0	Money Bag
+💱	U+1F4B1	&#x1F4B1;	&#128177;	F0 9F 92 B1	\u1F4B1	Currency Exchange
+💲	U+1F4B2	&#x1F4B2;	&#128178;	F0 9F 92 B2	\u1F4B2	Heavy Dollar Sign
+💳	U+1F4B3	&#x1F4B3;	&#128179;	F0 9F 92 B3	\u1F4B3	Credit Card
+💴	U+1F4B4	&#x1F4B4;	&#128180;	F0 9F 92 B4	\u1F4B4	Banknote With Yen Sign
+💵	U+1F4B5	&#x1F4B5;	&#128181;	F0 9F 92 B5	\u1F4B5	Banknote With Dollar Sign
+💶	U+1F4B6	&#x1F4B6;	&#128182;	F0 9F 92 B6	\u1F4B6	Banknote With Euro Sign
+💷	U+1F4B7	&#x1F4B7;	&#128183;	F0 9F 92 B7	\u1F4B7	Banknote With Pound Sign
+💸	U+1F4B8	&#x1F4B8;	&#128184;	F0 9F 92 B8	\u1F4B8	Money With Wings
+💹	U+1F4B9	&#x1F4B9;	&#128185;	F0 9F 92 B9	\u1F4B9	Chart With Upwards Trend And Yen Sign
+💺	U+1F4BA	&#x1F4BA;	&#128186;	F0 9F 92 BA	\u1F4BA	Seat
+💻	U+1F4BB	&#x1F4BB;	&#128187;	F0 9F 92 BB	\u1F4BB	Personal Computer
+💼	U+1F4BC	&#x1F4BC;	&#128188;	F0 9F 92 BC	\u1F4BC	Briefcase
+💽	U+1F4BD	&#x1F4BD;	&#128189;	F0 9F 92 BD	\u1F4BD	Minidisc
+💾	U+1F4BE	&#x1F4BE;	&#128190;	F0 9F 92 BE	\u1F4BE	Floppy Disk
+💿	U+1F4BF	&#x1F4BF;	&#128191;	F0 9F 92 BF	\u1F4BF	Optical Disc
+📀	U+1F4C0	&#x1F4C0;	&#128192;	F0 9F 93 80	\u1F4C0	Dvd
+📁	U+1F4C1	&#x1F4C1;	&#128193;	F0 9F 93 81	\u1F4C1	File Folder
+📂	U+1F4C2	&#x1F4C2;	&#128194;	F0 9F 93 82	\u1F4C2	Open File Folder
+📃	U+1F4C3	&#x1F4C3;	&#128195;	F0 9F 93 83	\u1F4C3	Page With Curl
+📄	U+1F4C4	&#x1F4C4;	&#128196;	F0 9F 93 84	\u1F4C4	Page Facing Up
+📅	U+1F4C5	&#x1F4C5;	&#128197;	F0 9F 93 85	\u1F4C5	Calendar
+📆	U+1F4C6	&#x1F4C6;	&#128198;	F0 9F 93 86	\u1F4C6	Tear-off Calendar
+📇	U+1F4C7	&#x1F4C7;	&#128199;	F0 9F 93 87	\u1F4C7	Card Index
+📈	U+1F4C8	&#x1F4C8;	&#128200;	F0 9F 93 88	\u1F4C8	Chart With Upwards Trend
+📉	U+1F4C9	&#x1F4C9;	&#128201;	F0 9F 93 89	\u1F4C9	Chart With Downwards Trend
+📊	U+1F4CA	&#x1F4CA;	&#128202;	F0 9F 93 8A	\u1F4CA	Bar Chart
+📋	U+1F4CB	&#x1F4CB;	&#128203;	F0 9F 93 8B	\u1F4CB	Clipboard
+📌	U+1F4CC	&#x1F4CC;	&#128204;	F0 9F 93 8C	\u1F4CC	Pushpin
+📍	U+1F4CD	&#x1F4CD;	&#128205;	F0 9F 93 8D	\u1F4CD	Round Pushpin
+📎	U+1F4CE	&#x1F4CE;	&#128206;	F0 9F 93 8E	\u1F4CE	Paperclip
+📏	U+1F4CF	&#x1F4CF;	&#128207;	F0 9F 93 8F	\u1F4CF	Straight Ruler
+📐	U+1F4D0	&#x1F4D0;	&#128208;	F0 9F 93 90	\u1F4D0	Triangular Ruler
+📑	U+1F4D1	&#x1F4D1;	&#128209;	F0 9F 93 91	\u1F4D1	Bookmark Tabs
+📒	U+1F4D2	&#x1F4D2;	&#128210;	F0 9F 93 92	\u1F4D2	Ledger
+📓	U+1F4D3	&#x1F4D3;	&#128211;	F0 9F 93 93	\u1F4D3	Notebook
+📔	U+1F4D4	&#x1F4D4;	&#128212;	F0 9F 93 94	\u1F4D4	Notebook With Decorative Cover
+📕	U+1F4D5	&#x1F4D5;	&#128213;	F0 9F 93 95	\u1F4D5	Closed Book
+📖	U+1F4D6	&#x1F4D6;	&#128214;	F0 9F 93 96	\u1F4D6	Open Book
+📗	U+1F4D7	&#x1F4D7;	&#128215;	F0 9F 93 97	\u1F4D7	Green Book
+📘	U+1F4D8	&#x1F4D8;	&#128216;	F0 9F 93 98	\u1F4D8	Blue Book
+📙	U+1F4D9	&#x1F4D9;	&#128217;	F0 9F 93 99	\u1F4D9	Orange Book
+📚	U+1F4DA	&#x1F4DA;	&#128218;	F0 9F 93 9A	\u1F4DA	Books
+📛	U+1F4DB	&#x1F4DB;	&#128219;	F0 9F 93 9B	\u1F4DB	Name Badge
+📜	U+1F4DC	&#x1F4DC;	&#128220;	F0 9F 93 9C	\u1F4DC	Scroll
+📝	U+1F4DD	&#x1F4DD;	&#128221;	F0 9F 93 9D	\u1F4DD	Memo
+📞	U+1F4DE	&#x1F4DE;	&#128222;	F0 9F 93 9E	\u1F4DE	Telephone Receiver
+📟	U+1F4DF	&#x1F4DF;	&#128223;	F0 9F 93 9F	\u1F4DF	Pager
+📠	U+1F4E0	&#x1F4E0;	&#128224;	F0 9F 93 A0	\u1F4E0	Fax Machine
+📡	U+1F4E1	&#x1F4E1;	&#128225;	F0 9F 93 A1	\u1F4E1	Satellite Antenna
+📢	U+1F4E2	&#x1F4E2;	&#128226;	F0 9F 93 A2	\u1F4E2	Public Address Loudspeaker
+📣	U+1F4E3	&#x1F4E3;	&#128227;	F0 9F 93 A3	\u1F4E3	Cheering Megaphone
+📤	U+1F4E4	&#x1F4E4;	&#128228;	F0 9F 93 A4	\u1F4E4	Outbox Tray
+📥	U+1F4E5	&#x1F4E5;	&#128229;	F0 9F 93 A5	\u1F4E5	Inbox Tray
+📦	U+1F4E6	&#x1F4E6;	&#128230;	F0 9F 93 A6	\u1F4E6	Package
+📧	U+1F4E7	&#x1F4E7;	&#128231;	F0 9F 93 A7	\u1F4E7	E-mail Symbol
+📨	U+1F4E8	&#x1F4E8;	&#128232;	F0 9F 93 A8	\u1F4E8	Incoming Envelope
+📩	U+1F4E9	&#x1F4E9;	&#128233;	F0 9F 93 A9	\u1F4E9	Envelope With Downwards Arrow Above
+📪	U+1F4EA	&#x1F4EA;	&#128234;	F0 9F 93 AA	\u1F4EA	Closed Mailbox With Lowered Flag
+📫	U+1F4EB	&#x1F4EB;	&#128235;	F0 9F 93 AB	\u1F4EB	Closed Mailbox With Raised Flag
+📬	U+1F4EC	&#x1F4EC;	&#128236;	F0 9F 93 AC	\u1F4EC	Open Mailbox With Raised Flag
+📭	U+1F4ED	&#x1F4ED;	&#128237;	F0 9F 93 AD	\u1F4ED	Open Mailbox With Lowered Flag
+📮	U+1F4EE	&#x1F4EE;	&#128238;	F0 9F 93 AE	\u1F4EE	Postbox
+📯	U+1F4EF	&#x1F4EF;	&#128239;	F0 9F 93 AF	\u1F4EF	Postal Horn
+📰	U+1F4F0	&#x1F4F0;	&#128240;	F0 9F 93 B0	\u1F4F0	Newspaper
+📱	U+1F4F1	&#x1F4F1;	&#128241;	F0 9F 93 B1	\u1F4F1	Mobile Phone
+📲	U+1F4F2	&#x1F4F2;	&#128242;	F0 9F 93 B2	\u1F4F2	Mobile Phone With Rightwards Arrow At Left
+📳	U+1F4F3	&#x1F4F3;	&#128243;	F0 9F 93 B3	\u1F4F3	Vibration Mode
+📴	U+1F4F4	&#x1F4F4;	&#128244;	F0 9F 93 B4	\u1F4F4	Mobile Phone Off
+📵	U+1F4F5	&#x1F4F5;	&#128245;	F0 9F 93 B5	\u1F4F5	No Mobile Phones
+📶	U+1F4F6	&#x1F4F6;	&#128246;	F0 9F 93 B6	\u1F4F6	Antenna With Bars
+📷	U+1F4F7	&#x1F4F7;	&#128247;	F0 9F 93 B7	\u1F4F7	Camera
+📹	U+1F4F9	&#x1F4F9;	&#128249;	F0 9F 93 B9	\u1F4F9	Video Camera
+📺	U+1F4FA	&#x1F4FA;	&#128250;	F0 9F 93 BA	\u1F4FA	Television
+📻	U+1F4FB	&#x1F4FB;	&#128251;	F0 9F 93 BB	\u1F4FB	Radio
+📼	U+1F4FC	&#x1F4FC;	&#128252;	F0 9F 93 BC	\u1F4FC	Videocassette
+🔀	U+1F500	&#x1F500;	&#128256;	F0 9F 94 80	\u1F500	Twisted Rightwards Arrows
+🔁	U+1F501	&#x1F501;	&#128257;	F0 9F 94 81	\u1F501	Clockwise Rightwards And Leftwards Open Circle Arrows
+🔂	U+1F502	&#x1F502;	&#128258;	F0 9F 94 82	\u1F502	Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay
+🔃	U+1F503	&#x1F503;	&#128259;	F0 9F 94 83	\u1F503	Clockwise Downwards And Upwards Open Circle Arrows
+🔄	U+1F504	&#x1F504;	&#128260;	F0 9F 94 84	\u1F504	Anticlockwise Downwards And Upwards Open Circle Arrows
+🔅	U+1F505	&#x1F505;	&#128261;	F0 9F 94 85	\u1F505	Low Brightness Symbol
+🔆	U+1F506	&#x1F506;	&#128262;	F0 9F 94 86	\u1F506	High Brightness Symbol
+🔇	U+1F507	&#x1F507;	&#128263;	F0 9F 94 87	\u1F507	Speaker With Cancellation Stroke
+🔈	U+1F508	&#x1F508;	&#128264;	F0 9F 94 88	\u1F508	Speaker
+🔉	U+1F509	&#x1F509;	&#128265;	F0 9F 94 89	\u1F509	Speaker With One Sound Wave
+🔊	U+1F50A	&#x1F50A;	&#128266;	F0 9F 94 8A	\u1F50A	Speaker With Three Sound Waves
+🔋	U+1F50B	&#x1F50B;	&#128267;	F0 9F 94 8B	\u1F50B	Battery
+🔌	U+1F50C	&#x1F50C;	&#128268;	F0 9F 94 8C	\u1F50C	Electric Plug
+🔍	U+1F50D	&#x1F50D;	&#128269;	F0 9F 94 8D	\u1F50D	Left-pointing Magnifying Glass
+🔎	U+1F50E	&#x1F50E;	&#128270;	F0 9F 94 8E	\u1F50E	Right-pointing Magnifying Glass
+🔏	U+1F50F	&#x1F50F;	&#128271;	F0 9F 94 8F	\u1F50F	Lock With Ink Pen
+🔐	U+1F510	&#x1F510;	&#128272;	F0 9F 94 90	\u1F510	Closed Lock With Key
+🔑	U+1F511	&#x1F511;	&#128273;	F0 9F 94 91	\u1F511	Key
+🔒	U+1F512	&#x1F512;	&#128274;	F0 9F 94 92	\u1F512	Lock
+🔓	U+1F513	&#x1F513;	&#128275;	F0 9F 94 93	\u1F513	Open Lock
+🔔	U+1F514	&#x1F514;	&#128276;	F0 9F 94 94	\u1F514	Bell
+🔕	U+1F515	&#x1F515;	&#128277;	F0 9F 94 95	\u1F515	Bell With Cancellation Stroke
+🔖	U+1F516	&#x1F516;	&#128278;	F0 9F 94 96	\u1F516	Bookmark
+🔗	U+1F517	&#x1F517;	&#128279;	F0 9F 94 97	\u1F517	Link Symbol
+🔘	U+1F518	&#x1F518;	&#128280;	F0 9F 94 98	\u1F518	Radio Button
+🔙	U+1F519	&#x1F519;	&#128281;	F0 9F 94 99	\u1F519	Back With Leftwards Arrow Above
+🔚	U+1F51A	&#x1F51A;	&#128282;	F0 9F 94 9A	\u1F51A	End With Leftwards Arrow Above
+🔛	U+1F51B	&#x1F51B;	&#128283;	F0 9F 94 9B	\u1F51B	On With Exclamation Mark With Left Right Arrow Above
+🔜	U+1F51C	&#x1F51C;	&#128284;	F0 9F 94 9C	\u1F51C	Soon With Rightwards Arrow Above
+🔝	U+1F51D	&#x1F51D;	&#128285;	F0 9F 94 9D	\u1F51D	Top With Upwards Arrow Above
+🔞	U+1F51E	&#x1F51E;	&#128286;	F0 9F 94 9E	\u1F51E	No One Under Eighteen Symbol
+🔟	U+1F51F	&#x1F51F;	&#128287;	F0 9F 94 9F	\u1F51F	Keycap Ten
+🔠	U+1F520	&#x1F520;	&#128288;	F0 9F 94 A0	\u1F520	Input Symbol For Latin Capital Letters
+🔡	U+1F521	&#x1F521;	&#128289;	F0 9F 94 A1	\u1F521	Input Symbol For Latin Small Letters
+🔢	U+1F522	&#x1F522;	&#128290;	F0 9F 94 A2	\u1F522	Input Symbol For Numbers
+🔣	U+1F523	&#x1F523;	&#128291;	F0 9F 94 A3	\u1F523	Input Symbol For Symbols
+🔤	U+1F524	&#x1F524;	&#128292;	F0 9F 94 A4	\u1F524	Input Symbol For Latin Letters
+🔥	U+1F525	&#x1F525;	&#128293;	F0 9F 94 A5	\u1F525	Fire
+🔦	U+1F526	&#x1F526;	&#128294;	F0 9F 94 A6	\u1F526	Electric Torch
+🔧	U+1F527	&#x1F527;	&#128295;	F0 9F 94 A7	\u1F527	Wrench
+🔨	U+1F528	&#x1F528;	&#128296;	F0 9F 94 A8	\u1F528	Hammer
+🔩	U+1F529	&#x1F529;	&#128297;	F0 9F 94 A9	\u1F529	Nut And Bolt
+🔪	U+1F52A	&#x1F52A;	&#128298;	F0 9F 94 AA	\u1F52A	Hocho
+🔫	U+1F52B	&#x1F52B;	&#128299;	F0 9F 94 AB	\u1F52B	Pistol
+🔬	U+1F52C	&#x1F52C;	&#128300;	F0 9F 94 AC	\u1F52C	Microscope
+🔭	U+1F52D	&#x1F52D;	&#128301;	F0 9F 94 AD	\u1F52D	Telescope
+🔮	U+1F52E	&#x1F52E;	&#128302;	F0 9F 94 AE	\u1F52E	Crystal Ball
+🔯	U+1F52F	&#x1F52F;	&#128303;	F0 9F 94 AF	\u1F52F	Six Pointed Star With Middle Dot
+🔰	U+1F530	&#x1F530;	&#128304;	F0 9F 94 B0	\u1F530	Japanese Symbol For Beginner
+🔱	U+1F531	&#x1F531;	&#128305;	F0 9F 94 B1	\u1F531	Trident Emblem
+🔲	U+1F532	&#x1F532;	&#128306;	F0 9F 94 B2	\u1F532	Black Square Button
+🔳	U+1F533	&#x1F533;	&#128307;	F0 9F 94 B3	\u1F533	White Square Button
+🔴	U+1F534	&#x1F534;	&#128308;	F0 9F 94 B4	\u1F534	Large Red Circle
+🔵	U+1F535	&#x1F535;	&#128309;	F0 9F 94 B5	\u1F535	Large Blue Circle
+🔶	U+1F536	&#x1F536;	&#128310;	F0 9F 94 B6	\u1F536	Large Orange Diamond
+🔷	U+1F537	&#x1F537;	&#128311;	F0 9F 94 B7	\u1F537	Large Blue Diamond
+🔸	U+1F538	&#x1F538;	&#128312;	F0 9F 94 B8	\u1F538	Small Orange Diamond
+🔹	U+1F539	&#x1F539;	&#128313;	F0 9F 94 B9	\u1F539	Small Blue Diamond
+🔺	U+1F53A	&#x1F53A;	&#128314;	F0 9F 94 BA	\u1F53A	Up-pointing Red Triangle
+🔻	U+1F53B	&#x1F53B;	&#128315;	F0 9F 94 BB	\u1F53B	Down-pointing Red Triangle
+🔼	U+1F53C	&#x1F53C;	&#128316;	F0 9F 94 BC	\u1F53C	Up-pointing Small Red Triangle
+🔽	U+1F53D	&#x1F53D;	&#128317;	F0 9F 94 BD	\u1F53D	Down-pointing Small Red Triangle
+🕀	U+1F540	&#x1F540;	&#128320;	F0 9F 95 80	\u1F540	Circled Cross Pommee
+🕁	U+1F541	&#x1F541;	&#128321;	F0 9F 95 81	\u1F541	Cross Pommee With Half-circle Below
+🕂	U+1F542	&#x1F542;	&#128322;	F0 9F 95 82	\u1F542	Cross Pommee
+🕃	U+1F543	&#x1F543;	&#128323;	F0 9F 95 83	\u1F543	Notched Left Semicircle With Three Dots
+🕐	U+1F550	&#x1F550;	&#128336;	F0 9F 95 90	\u1F550	Clock Face One Oclock
+🕑	U+1F551	&#x1F551;	&#128337;	F0 9F 95 91	\u1F551	Clock Face Two Oclock
+🕒	U+1F552	&#x1F552;	&#128338;	F0 9F 95 92	\u1F552	Clock Face Three Oclock
+🕓	U+1F553	&#x1F553;	&#128339;	F0 9F 95 93	\u1F553	Clock Face Four Oclock
+🕔	U+1F554	&#x1F554;	&#128340;	F0 9F 95 94	\u1F554	Clock Face Five Oclock
+🕕	U+1F555	&#x1F555;	&#128341;	F0 9F 95 95	\u1F555	Clock Face Six Oclock
+🕖	U+1F556	&#x1F556;	&#128342;	F0 9F 95 96	\u1F556	Clock Face Seven Oclock
+🕗	U+1F557	&#x1F557;	&#128343;	F0 9F 95 97	\u1F557	Clock Face Eight Oclock
+🕘	U+1F558	&#x1F558;	&#128344;	F0 9F 95 98	\u1F558	Clock Face Nine Oclock
+🕙	U+1F559	&#x1F559;	&#128345;	F0 9F 95 99	\u1F559	Clock Face Ten Oclock
+🕚	U+1F55A	&#x1F55A;	&#128346;	F0 9F 95 9A	\u1F55A	Clock Face Eleven Oclock
+🕛	U+1F55B	&#x1F55B;	&#128347;	F0 9F 95 9B	\u1F55B	Clock Face Twelve Oclock
+🕜	U+1F55C	&#x1F55C;	&#128348;	F0 9F 95 9C	\u1F55C	Clock Face One-thirty
+🕝	U+1F55D	&#x1F55D;	&#128349;	F0 9F 95 9D	\u1F55D	Clock Face Two-thirty
+🕞	U+1F55E	&#x1F55E;	&#128350;	F0 9F 95 9E	\u1F55E	Clock Face Three-thirty
+🕟	U+1F55F	&#x1F55F;	&#128351;	F0 9F 95 9F	\u1F55F	Clock Face Four-thirty
+🕠	U+1F560	&#x1F560;	&#128352;	F0 9F 95 A0	\u1F560	Clock Face Five-thirty
+🕡	U+1F561	&#x1F561;	&#128353;	F0 9F 95 A1	\u1F561	Clock Face Six-thirty
+🕢	U+1F562	&#x1F562;	&#128354;	F0 9F 95 A2	\u1F562	Clock Face Seven-thirty
+🕣	U+1F563	&#x1F563;	&#128355;	F0 9F 95 A3	\u1F563	Clock Face Eight-thirty
+🕤	U+1F564	&#x1F564;	&#128356;	F0 9F 95 A4	\u1F564	Clock Face Nine-thirty
+🕥	U+1F565	&#x1F565;	&#128357;	F0 9F 95 A5	\u1F565	Clock Face Ten-thirty
+🕦	U+1F566	&#x1F566;	&#128358;	F0 9F 95 A6	\u1F566	Clock Face Eleven-thirty
+🕧	U+1F567	&#x1F567;	&#128359;	F0 9F 95 A7	\u1F567	Clock Face Twelve-thirty
+🗻	U+1F5FB	&#x1F5FB;	&#128507;	F0 9F 97 BB	\u1F5FB	Mount Fuji
+🗼	U+1F5FC	&#x1F5FC;	&#128508;	F0 9F 97 BC	\u1F5FC	Tokyo Tower
+🗽	U+1F5FD	&#x1F5FD;	&#128509;	F0 9F 97 BD	\u1F5FD	Statue Of Liberty
+🗾	U+1F5FE	&#x1F5FE;	&#128510;	F0 9F 97 BE	\u1F5FE	Silhouette Of Japan
+🗿	U+1F5FF	&#x1F5FF;	&#128511;	F0 9F 97 BF	\u1F5FF	Moyai
+x	U+1F5FF	&#x1F5FA;	&#12851A;	F0 9F 97 B4	\u873FF X
